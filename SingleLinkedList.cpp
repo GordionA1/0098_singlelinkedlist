@@ -1,5 +1,6 @@
 #include <iostream>
 #include <string>
+using namespace std;
 
 class Node
 {
@@ -17,4 +18,10 @@ public:
     {
         START = NULL;
     }
+
+    void addNode()
+    {
+
+    }
+
 };
